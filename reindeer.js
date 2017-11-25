@@ -3,3 +3,7 @@ var reindeer = ["Dasher", "Dancer", "Prancer", "Vixen", "Comet", "Cupid", "Donne
 
 
 var hohohoElement = document.getElementById("reindeer");
+
+for (var i = 0; i < reindeer.length; i++) {
+  hohohoElement.innerHTML
+}
